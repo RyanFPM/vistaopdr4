@@ -7,3 +7,4 @@ print("De uitkomst door elkaar gedeelt:")
 antwoord = (getal / getal2 / getal3)
 uitkomst = round(antwoord,4)
 print(uitkomst)
+# NAGEKEKEN!
